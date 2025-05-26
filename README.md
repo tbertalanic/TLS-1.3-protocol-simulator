@@ -40,4 +40,11 @@ Install with:
 ## How to run
 ```python main.py```
 
+## Sources and Literature
+- [RFC 8446 – The Transport Layer Security (TLS) Protocol Version 1.3](https://datatracker.ietf.org/doc/html/rfc8446)
+- [Python cryptography library documentation](https://cryptography.io)
+- [Tkinter official documentation](https://docs.python.org/3/library/tkinter.html)
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
